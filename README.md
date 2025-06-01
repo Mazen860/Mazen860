@@ -1,13 +1,13 @@
 # 👋 Hi, I’m Mazen Alhaffar
 
-Welcome to my GitHub! I'm a data and financial analyst passionate about transforming raw data into meaningful insights and solutions. With over 5 years of experience in banking, fintech, and consulting—and a Master’s in Business Analytics from Mercer University—I bring a unique blend of domain expertise and technical skills to solve complex business challenges.
+Welcome to my GitHub! I'm a data and financial analyst passionate about transforming raw data into meaningful insights and solutions. With over 5 years of experience in banking, fintech, and consulting, and a Master’s in Business Analytics from Mercer University, I bring a unique blend of domain expertise and technical skills to solve complex business challenges.
 
 ## 💡 What I Do
 I specialize in:
-- **Data Analytics & Visualization** – Uncovering trends, building dashboards, and delivering compelling data stories for executive decision-making.
-- **Database Management** – Mining, cleaning, and managing financial and operational data using SQL, Excel (VBA), and structured pipelines.
-- **Technical Tools & Coding** – Building predictive models, automating reports, and performing deep statistical analysis using Python, R, and Power BI.
-- **Financial & Risk Analysis** – Expertise in credit risk modeling (IFRS 9, ECL), pricing optimization, and compliance reporting across international banking operations.
+- **Data Analytics & Visualization:** Uncovering trends, building dashboards, and delivering compelling data stories for executive decision-making.
+- **Database Management:** Mining, cleaning, and managing financial and operational data using SQL, Excel (VBA), and structured pipelines.
+- **Technical Tools & Coding:** Building predictive models, automating reports, and performing deep statistical analysis using Python, R, and Power BI.
+- **Financial & Risk Analysis:** Expertise in credit risk modeling (IFRS 9, ECL), pricing optimization, and compliance reporting across international banking operations.
 
 ## 🛠️ Tools & Technologies
 - Languages: `SQL`, `Python`, `R`, `VBA`
@@ -24,8 +24,7 @@ Right now, I’m:
 - Leading student-driven analytics initiatives through Bearlytics, the club I co-founded at Mercer University
 
 ## 🚀 Let’s Connect
-If you're into analytics, finance, or tech—or just love talking data—I'd love to connect. I'm always open to collaborating on meaningful projects or new challenges.
+If you're into analytics, finance, or tech, or just love talking data, I'd love to connect. I'm always open to collaborating on meaningful projects or new challenges.
 
-[📧 Email Me](mailto:mazenalhaffar99@gmail.com)  
+[📧 Email Me](mailto:mazenalhaffar6@gmail.com)  
 [💼 LinkedIn](https://www.linkedin.com/in/mazen-alhaffar)  
-[📊 Portfolio (coming soon)](#)
