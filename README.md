@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mazen Alhaffar
 
-Welcome to my GitHub! I'm a data enthusiast with a strong background in financial analytics and a keen interest in transforming raw data into meaningful insights and solutions. With over 5 years of experience in fintech, banking, and consulting, I bring a unique blend of domain expertise and technical skills to solve complex business challenges.
+Welcome to my GitHub! I'm a data enthusiast with a strong background in financial analytics and a knack for transforming raw data into meaningful insights and solutions. With over 5 years of experience in fintech, banking, and consulting, I bring a unique blend of domain expertise and technical skills to solve complex business challenges.
 
 ## 💡 What I Do
 I specialize in:
