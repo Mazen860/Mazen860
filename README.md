@@ -11,7 +11,7 @@ I specialize in:
 
 ## 🛠️ Tools & Technologies
 - Languages: `SQL`, `Python`, `R`, `VBA`, `C#`, `Git`
-- Tools: `SQL Server`, `MySQL`, `VS Code`, `GitHub`, `Excel (Advanced)`, `Tableau`, `Power BI`, `Databricks`, `SSRS`, `Jira`, `Confluence`, `Salesforce`, `Oracle`
+- Tools: `SQL Server`, `MySQL`, `Spark`, `VS Code`, `GitHub`, `Excel (Advanced)`, `Tableau`, `Power BI`, `Databricks`, `SSRS`, `Jira`, `Confluence`, `Salesforce`, `Oracle`
 - Analytics Methods: Predictive Modeling, Logistic Regression, Clustering, Feature Engineering, Forecasting, Time Series Analysis
 - Database & ETL: Data Warehousing, ETL Automation, Data Cleaning, APIs
 - Financial: IFRS 9, Credit Risk Analysis, Budget Variance Modeling
